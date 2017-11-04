@@ -2,7 +2,7 @@
 
 use Illuminate\Database\Seeder;
 
-class DatabaseSeeder extends Seeder
+class ApartmentsTableSeeder extends Seeder
 {
 
     /**
@@ -12,7 +12,7 @@ class DatabaseSeeder extends Seeder
      */
     public function run()
     {
-        $this->call(ApartmentsTableSeeder::class);
+        //
     }
 
 }
