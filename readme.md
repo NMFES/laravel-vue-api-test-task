@@ -1,6 +1,8 @@
-# Laravel 5.5 / Vue 2 / Bootstrap
+# Laravel 5.5 / Vue 2 / Bootstrap test task
 
-
+What's included
+- Search form with inputs
+- Displaying found items in table
 
 ## Installation
 
@@ -26,4 +28,4 @@ npm run watch (or "npm run watch-poll")
 # build for production
 npm run prod
 ```
-<img src="https://raw.githubusercontent.com/nmfes/test-blog/master/storage/app/public/images/github/1.png" height="500" align="left">
+<img src="https://raw.githubusercontent.com/NMFES/laravel-vue-api-test-task/master/storage/app/other/1.png" height="500" align="left">
