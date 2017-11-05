@@ -19,6 +19,9 @@ For installing you should run next commands:
 
 ... and something else you need to do. If i forgot something :)
 
+## DEMO
+https://laravel-vue-api-test-task.000webhostapp.com/
+
 ## Usage
 
 ``` bash
